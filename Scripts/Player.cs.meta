@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 54146ec452b347b42881f0b85a46fc6f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - jumpEffectPrefab: {instanceID: 0}
+  - deadEffectPrefab: {instanceID: 0}
+  - stairEffectPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
